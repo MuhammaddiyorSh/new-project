@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    width: 100px;
+    height: 100vh;
+}
+.box{
+    width: 450px;
+    height: 550px;
+    color: blue;
+    background-color: yellowgreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    padding-bottom: 5px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.box img{
+    width: 450px;
+}
